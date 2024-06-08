@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Mobile app development
-- 📫 ping me maria.metrina@gmail.com
+- 📫 ping me mariamikeal@outlook.com
 
 <!---
 mariametrina/mariametrina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
